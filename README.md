@@ -65,8 +65,8 @@ Most are intentionally narrow. They are not trying to become another giant frame
 
 | Project | What it is exploring | Release State | Visibility |
 | :-- | :-- | :--: | :--: |
-| **[Prune](https://github.com/mippi-the-dork/Prune)** | Hide, show, filter, and reorder Details panel sections so the panel reflects the way you actually work. | ![WIP](https://img.shields.io/badge/WIP-d29922?style=flat-square) | ![Public](https://img.shields.io/badge/PUBLIC-0969da?style=flat-square) |
-| **[Unmark](https://github.com/mippi-the-dork/Unmark)** | Editor-native linking and navigation tools with link types, thumbnails, editing, and a dedicated Links workflow. | ![WIP](https://img.shields.io/badge/WIP-d29922?style=flat-square) | ![Public](https://img.shields.io/badge/PUBLIC-0969da?style=flat-square) |
+| **[Prune](https://github.com/mippi-the-dork/Prune)** | Hide, show, filter, and reorder Details panel sections so the panel reflects the way you actually work. | ![WIP](https://img.shields.io/badge/WIP-d29922?style=flat-square) | ![Public](https://img.shields.io/badge/PRIVATE-6e7781?style=flat-square&logo=github&logoColor=white) |
+| **[Unmark](https://github.com/mippi-the-dork/Unmark)** | Editor-native linking and navigation tools with link types, thumbnails, editing, and a dedicated Links workflow. | ![WIP](https://img.shields.io/badge/WIP-d29922?style=flat-square) | ![Private](https://img.shields.io/badge/PRIVATE-6e7781?style=flat-square&logo=github&logoColor=white) |
 | **[Omni](https://github.com/mippi-the-dork/Omni)** | Higher-level navigation authoring that turns designer intent into standard Unreal navigation links. | ![WIP](https://img.shields.io/badge/WIP-d29922?style=flat-square) | ![Private](https://img.shields.io/badge/PRIVATE-6e7781?style=flat-square&logo=github&logoColor=white) |
 | **[Portal](https://github.com/mippi-the-dork/Portal)** | Named Reroute Nodes for Blueprints, bringing Material Graph and PCG Graph style named routing to Blueprint graphs. | ![WIP](https://img.shields.io/badge/WIP-d29922?style=flat-square) | ![Private](https://img.shields.io/badge/PRIVATE-6e7781?style=flat-square&logo=github&logoColor=white) |
 
