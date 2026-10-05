@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mippithedork/"><img src="https://img.shields.io/badge/LinkedIn-Mippi_The_Dork-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://crafting-play.vercel.app/"><img src="https://img.shields.io/badge/Crafting_Play-Game_Design_Knowledge-7C3AED?style=for-the-badge" alt="Crafting Play"></a>
+  <a href="https://crafting-play.vercel.app/"><img src="https://img.shields.io/badge/Crafting_Play-Game_Design_Knowledge-7C3AED?style=for-the-badge" alt="Crafting Play"></a></br>
   <a href="https://www.fab.com/sellers/Mippithedork"><img src="https://img.shields.io/badge/Fab-Unreal_Engine_Tools-111111?style=for-the-badge" alt="Fab"></a>
   <a href="https://discord.gg/unrealsource"><img src="https://img.shields.io/badge/Unreal_Source-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Unreal Source Discord"></a>
 </p>
