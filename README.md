@@ -69,6 +69,7 @@ Most are intentionally narrow. They are not trying to become another giant frame
 | **[Unmark](https://github.com/mippi-the-dork/Unmark)** | Editor-native linking and navigation tools with link types, thumbnails, editing, and a dedicated Links workflow. | ![WIP](https://img.shields.io/badge/WIP-d29922?style=flat-square) | ![Private](https://img.shields.io/badge/PRIVATE-6e7781?style=flat-square&logo=github&logoColor=white) |
 | **[Omni](https://github.com/mippi-the-dork/Omni)** | Higher-level navigation authoring that turns designer intent into standard Unreal navigation links. | ![WIP](https://img.shields.io/badge/WIP-d29922?style=flat-square) | ![Public](https://img.shields.io/badge/PUBLIC-0969da?style=flat-square) |
 | **[Portal](https://github.com/mippi-the-dork/Portal)** | Named Reroute Nodes for Blueprints, bringing Material Graph and PCG Graph style named routing to Blueprint graphs. | ![WIP](https://img.shields.io/badge/WIP-d29922?style=flat-square) | ![Public](https://img.shields.io/badge/PUBLIC-0969da?style=flat-square) |
+| **[Sniff](https://github.com/mippi-the-dork/Sniff)** | Wire sniffing data between nodes within Unreal Engine's PCG Graph. | ![WIP](https://img.shields.io/badge/WIP-d29922?style=flat-square) | ![Private](https://img.shields.io/badge/PRIVATE-6e7781?style=flat-square&logo=github&logoColor=white) |
 
 > **Private repository note:** private project names and descriptions listed here are intentionally public. The links only resolve for GitHub users who already have access to those repositories.
 
