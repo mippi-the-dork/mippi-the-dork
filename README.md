@@ -1,164 +1,162 @@
 <p align="center">
-  <img src="./assets/mippi-profile-banner.svg" alt="Mippi - Game Designer, Director, Toolmaker, Writer" width="100%">
+  <img src="./assets/mippi-profile-banner-v2.svg" alt="Mippi the Dork | Game Designer, Design Director, Consultant, Unreal Toolmaker" width="100%">
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mippithedork/"><img src="https://img.shields.io/badge/LinkedIn-Mippi_The_Dork-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://crafting-play.vercel.app/"><img src="https://img.shields.io/badge/Crafting_Play-Game_Design_Knowledge-7C3AED?style=for-the-badge" alt="Crafting Play"></a></br>
-  <a href="https://www.fab.com/sellers/Mippithedork"><img src="https://img.shields.io/badge/Fab-Unreal_Engine_Tools-111111?style=for-the-badge" alt="Fab"></a>
-  <a href="https://discord.gg/unrealsource"><img src="https://img.shields.io/badge/Unreal_Source-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Unreal Source Discord"></a>
+  <a href="https://mippi-the-dork.github.io/"><img src="https://img.shields.io/badge/PORTFOLIO-LIVE-0070E0?style=for-the-badge" alt="Portfolio"></a>
+  <a href="https://www.linkedin.com/in/mippithedork/"><img src="https://img.shields.io/badge/LINKEDIN-MIPPI_THE_DORK-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://crafting-play.vercel.app/"><img src="https://img.shields.io/badge/CRAFTING_PLAY-GAME_DESIGN-6F42C1?style=for-the-badge" alt="Crafting Play"></a>
+  <a href="https://www.fab.com/sellers/Mippithedork"><img src="https://img.shields.io/badge/FAB-UNREAL_TOOLS-111827?style=for-the-badge" alt="Fab"></a>
+</p>
+<p align="center">
+  <a href="https://unrealsource.com/"><img src="https://img.shields.io/badge/UNREAL_SOURCE-130K%2B_DEVELOPERS-0070E0?style=for-the-badge" alt="Unreal Source"></a>
+  <a href="https://discord.gg/unrealsource"><img src="https://img.shields.io/badge/DISCORD-JOIN_UNREAL_SOURCE-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Unreal Source Discord"></a>
+  <a href="https://steamcommunity.com/id/mippithedork/"><img src="https://img.shields.io/badge/STEAM-ADD_ME-1B2838?style=for-the-badge&logo=steam&logoColor=white" alt="Steam"></a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/25%2B_Years-Game_Development-2ea44f?style=flat-square" alt="25+ years in game development">
-  <img src="https://img.shields.io/badge/Game_Design-Systems_%26_Experience-0969da?style=flat-square" alt="Game Design">
-  <img src="https://img.shields.io/badge/Unreal_Engine-Tools_%26_Workflows-6f42c1?style=flat-square" alt="Unreal Engine">
-  <img src="https://img.shields.io/badge/Open_Source-Building_In_Public-d29922?style=flat-square" alt="Open Source">
+  <img src="https://img.shields.io/badge/25%2B_YEARS-GAME_DEVELOPMENT-0B1728?style=flat-square&labelColor=0070E0" alt="25+ years in game development">
+  <img src="https://img.shields.io/badge/GAME_DESIGN-PLAYER_EXPERIENCE-0B1728?style=flat-square&labelColor=0070E0" alt="Game Design">
+  <img src="https://img.shields.io/badge/UNREAL_ENGINE-TOOLS_%26_WORKFLOWS-0B1728?style=flat-square&labelColor=0070E0" alt="Unreal Engine">
+  <img src="https://img.shields.io/badge/OPEN_SOURCE-FREE_ON_GITHUB-0B1728?style=flat-square&labelColor=FF4FC8" alt="Open Source">
 </p>
+
+<img src="./assets/section-divider.svg" width="100%" alt="">
 
 ## Hey, I'm Mippi
 
-I've spent **25+ years in the game industry** designing games, levels, systems, stories, tools, workflows, and occasionally the thing that makes the other thing less annoying to use.
+I've spent **25+ years in game development** working across AAA, indie, live service, technical design, creative direction, game direction, studio leadership, consulting, and Unreal Engine development.
 
-My center of gravity is **Game Design**, but a long career in development has a way of turning you into a multidisciplinary problem solver. I care about finding the fun, communicating the design clearly, reducing friction for the team, and building tools when the existing workflow gets in the way.
+My center of gravity is **Game Design**. I care about finding the fun, identifying the problem that actually matters, communicating clearly enough for a team to build the right thing, and removing friction when the tools get in the way.
 
-A lot of the code here comes from the same question:
+A lot of the code here starts with one question:
 
 > **Why am I fighting the editor to do this?**
 
 When the answer is "I probably shouldn't be," I tend to build something.
 
-### What I care about
+### A few things I care about
 
 - **Player experience first.** Systems only matter if they create something meaningful on the other side of the screen.
-- **Clarity is part of the design.** For players, developers, tools, documentation, and communication.
 - **Solve the actual problem.** A smaller correct solution beats a larger clever one.
+- **Clarity is part of design.** That applies to players, teams, tools, documentation, and communication.
 - **Tools should disappear into the workflow.** The best editor utility feels like it should have always been there.
-- **Share the useful stuff.** If I solve a problem that other developers probably have, I would rather put it in their hands.
+- **Share the useful stuff.** If I solve a problem other developers probably have, I would rather put it in their hands.
 
----
+<p align="center"><a href="https://mippi-the-dork.github.io/"><b>Explore the interactive portfolio →</b></a></p>
+
+<img src="./assets/section-divider.svg" width="100%" alt="">
+
+## Games, Design & Development
+
+| Project / Work | What it is |
+| :-- | :-- |
+| **Project Heavy Water** | An original second-person perspective horror project exploring camera ownership, navigation, vulnerability, and perspective as gameplay. |
+| **Design Consulting** | Design diagnosis, combat, progression, systems, UX, preproduction, and creative direction across a growing list of indie projects. |
+| **Azure Altar** | A long-running Unreal Engine testbed, updated across engine versions to learn, validate, and demonstrate modern workflows in a practical environment. |
+| **Unannounced Project** | My first Game Director role. Still under NDA, still unannounced, and a major learning experience I am excited to talk about when I finally can. |
+
+### Selected career trail
+
+`Mob Entertainment` · `Oberha5li` · `Seven20 / deadmau5` · `Square Enix` · `Gamigo` · `Aeria Games` · `NCSoft` · `ChangYou` · `Electronic Arts` · `Insomniac Games` · `Naughty Dog` · `Rockstar Games` · `Sony Computer Entertainment America`
+
+Selected recognizable work includes **Poppy Playtime, Tomb Raider, Dragon Quest, Ratchet & Clank, Jak and Daxter, Grand Theft Auto**, plus a lot of work that is less recognizable from a logo but just as responsible for the scars.
+
+<img src="./assets/section-divider.svg" width="100%" alt="">
 
 ## Unreal Engine Tools
 
-I build focused Unreal Engine tools that remove small, persistent points of friction from everyday development.
+I build focused editor utilities to make game development **faster, easier, clearer, and less annoying**.
 
-Most are intentionally narrow. They are not trying to become another giant framework. They solve one workflow problem, integrate with Unreal's existing editor behavior, and stay out of the way when you do not need them.
+Released tools are always available **free on GitHub**. Where a FAB version exists, it is **$0.99** for people who want the convenience or insist on contributing something back.
 
 ### Released
 
-| Project | What it does | Release State | Visibility |
-| :-- | :-- | :--: | :--: |
-| **[Chroma](https://github.com/mippi-the-dork/Chroma)** | Color organization for Actors and Folders, including Outliner tinting, matching selection, colored outlines, and viewport visualization. | ![Released](https://img.shields.io/badge/RELEASED-2ea44f?style=flat-square) | ![Public](https://img.shields.io/badge/PUBLIC-0969da?style=flat-square) |
-| **[Digit](https://github.com/mippi-the-dork/Digit)** | Houdini-style, digit-aware numeric scrubbing for Unreal Editor number fields. | ![Released](https://img.shields.io/badge/RELEASED-2ea44f?style=flat-square) | ![Public](https://img.shields.io/badge/PUBLIC-0969da?style=flat-square) |
-| **[Focus](https://github.com/mippi-the-dork/Focus)** | Visibility, Solo, selection locking, and edit protection directly in the World Outliner. | ![Released](https://img.shields.io/badge/RELEASED-2ea44f?style=flat-square) | ![Public](https://img.shields.io/badge/PUBLIC-0969da?style=flat-square) |
-| **[Hue](https://github.com/mippi-the-dork/Hue)** | Persistent Blueprint node styling with Instance, Category, Global, inheritance, and multi-select workflows. | ![Released](https://img.shields.io/badge/RELEASED-2ea44f?style=flat-square) | ![Public](https://img.shields.io/badge/PUBLIC-0969da?style=flat-square) |
-| **[Index](https://github.com/mippi-the-dork/Index)** | Persistent manual hierarchy ordering inside Unreal's standard World Outliner. | ![Released](https://img.shields.io/badge/RELEASED-2ea44f?style=flat-square) | ![Public](https://img.shields.io/badge/PUBLIC-0969da?style=flat-square) |
-| **[Latch](https://github.com/mippi-the-dork/Latch)** | Persistent expansion latches, Mixed View, and Keep Visible hierarchy controls for the World Outliner. | ![Released](https://img.shields.io/badge/RELEASED-2ea44f?style=flat-square) | ![Public](https://img.shields.io/badge/PUBLIC-0969da?style=flat-square) |
-| **[Link](https://github.com/mippi-the-dork/Link)** | Links multiple Level Editor viewport camera transforms while preserving useful relative relationships. | ![Released](https://img.shields.io/badge/RELEASED-2ea44f?style=flat-square) | ![Public](https://img.shields.io/badge/PUBLIC-0969da?style=flat-square) |
-| **[Lux](https://github.com/mippi-the-dork/Lux)** | A toggleable viewport headlamp for inspecting dark environments without changing the level's actual lighting. | ![Released](https://img.shields.io/badge/RELEASED-2ea44f?style=flat-square) | ![Public](https://img.shields.io/badge/PUBLIC-0969da?style=flat-square) |
-| **[Origin](https://github.com/mippi-the-dork/Origin)** | Adjustable assembly pivots and hierarchy controls that let you reposition a parent pivot without moving its children. | ![Released](https://img.shields.io/badge/RELEASED-2ea44f?style=flat-square) | ![Public](https://img.shields.io/badge/PUBLIC-0969da?style=flat-square) |
-| **[Prune](https://github.com/mippi-the-dork/Prune)** | Hide, show, filter, and reorder Details panel sections so the panel reflects the way you actually work. | ![Released](https://img.shields.io/badge/RELEASED-2ea44f?style=flat-square) | ![Public](https://img.shields.io/badge/PUBLIC-0969da?style=flat-square) |
-| **[Stem](https://github.com/mippi-the-dork/Stem)** | World Outliner hierarchy guides with selected and hovered path highlighting plus adjustable line styling. | ![Released](https://img.shields.io/badge/RELEASED-2ea44f?style=flat-square) | ![Public](https://img.shields.io/badge/PUBLIC-0969da?style=flat-square) |
-| **[Surface](https://github.com/mippi-the-dork/Surface)** | Brings Component properties into an Actor's Details panel with filters, grouped favorites, and fast selection tools. | ![Released](https://img.shields.io/badge/RELEASED-2ea44f?style=flat-square) | ![Public](https://img.shields.io/badge/PUBLIC-0969da?style=flat-square) |
-| **[Sweep](https://github.com/mippi-the-dork/Sweep)** | Cleans up Blueprint graphs by distributing shared Variable Get nodes beside consumers or consolidating equivalent Gets. | ![Released](https://img.shields.io/badge/RELEASED-2ea44f?style=flat-square) | ![Public](https://img.shields.io/badge/PUBLIC-0969da?style=flat-square) |
+|  | Tool | What it fixes | Access |
+| :-: | :-- | :-- | :-- |
+| <img src="./assets/tools/hue.png" width="28"> | **[Hue](https://github.com/mippi-the-dork/Hue)** | Blueprint node styling | **GitHub Free** · FAB coming soon |
+| <img src="./assets/tools/prune.png" width="28"> | **[Prune](https://github.com/mippi-the-dork/Prune)** | Details panel presets and organization | **GitHub Free** · FAB coming soon |
+| <img src="./assets/tools/latch.png" width="28"> | **[Latch](https://github.com/mippi-the-dork/Latch)** | Outliner hierarchy locking | [GitHub Free](https://github.com/mippi-the-dork/Latch) · [FAB $0.99](https://www.fab.com/listings/280bc637-782a-45a3-a949-9423e745bf34) |
+| <img src="./assets/tools/digit.png" width="28"> | **[Digit](https://github.com/mippi-the-dork/Digit)** | Digit-aware numeric scrubbing | **GitHub Free** · FAB coming soon |
+| <img src="./assets/tools/lux.png" width="28"> | **[Lux](https://github.com/mippi-the-dork/Lux)** | Viewport headlamp | [GitHub Free](https://github.com/mippi-the-dork/Lux) · [FAB $0.99](https://www.fab.com/listings/1e650e52-7265-44db-a8a5-65b8343df176) |
+| <img src="./assets/tools/focus.png" width="28"> | **[Focus](https://github.com/mippi-the-dork/Focus)** | Outliner visibility, solo, and lock | [GitHub Free](https://github.com/mippi-the-dork/Focus) · [FAB $0.99](https://www.fab.com/listings/d60d5b75-0adc-41fb-b177-dc90dcd5948d) |
+| <img src="./assets/tools/surface.png" width="28"> | **[Surface](https://github.com/mippi-the-dork/Surface)** | Details panel workflow | [GitHub Free](https://github.com/mippi-the-dork/Surface) · [FAB $0.99](https://www.fab.com/listings/227598e2-fe87-460a-a572-3791ce9bfb08) |
+| <img src="./assets/tools/origin.png" width="28"> | **[Origin](https://github.com/mippi-the-dork/Origin)** | Parenting and anchor utilities | [GitHub Free](https://github.com/mippi-the-dork/Origin) · [FAB $0.99](https://www.fab.com/listings/d3d0fb3a-bbe1-493e-840a-a533a6f16466) |
+| <img src="./assets/tools/stem.png" width="28"> | **[Stem](https://github.com/mippi-the-dork/Stem)** | Outliner row height | [GitHub Free](https://github.com/mippi-the-dork/Stem) · [FAB $0.99](https://www.fab.com/listings/ed18af37-20f9-4523-94d5-d795091c1185) |
+| <img src="./assets/tools/chroma.png" width="28"> | **[Chroma](https://github.com/mippi-the-dork/Chroma)** | Outliner color | [GitHub Free](https://github.com/mippi-the-dork/Chroma) · [FAB $0.99](https://www.fab.com/listings/37e1c2d1-f16e-4e44-befb-55e0451f412f) |
+| <img src="./assets/tools/link.png" width="28"> | **[Link](https://github.com/mippi-the-dork/Link)** | Viewport synchronization | [GitHub Free](https://github.com/mippi-the-dork/Link) · [FAB $0.99](https://www.fab.com/listings/ca9e33a3-4d43-4f6d-8deb-ef113e629cb1) |
+| <img src="./assets/tools/index.png" width="28"> | **[Index](https://github.com/mippi-the-dork/Index)** | Custom Outliner ordering | [GitHub Free](https://github.com/mippi-the-dork/Index) · [FAB $0.99](https://www.fab.com/listings/9d36184a-d4dc-4049-850f-8ce28b74a560) |
+| <img src="./assets/tools/sweep.png" width="28"> | **[Sweep](https://github.com/mippi-the-dork/Sweep)** | Blueprint Variable Get cleanup | [GitHub Free](https://github.com/mippi-the-dork/Sweep) · [FAB $0.99](https://www.fab.com/listings/49c1d420-458d-4e4f-8ede-b994f561e459) |
 
 ### In Development
 
-| Project | What it is exploring | Release State | Visibility |
-| :-- | :-- | :--: | :--: |
-| **[Unmark](https://github.com/mippi-the-dork/Unmark)** | Editor-native linking and navigation tools with link types, thumbnails, editing, and a dedicated Links workflow. | ![WIP](https://img.shields.io/badge/WIP-d29922?style=flat-square) | ![Private](https://img.shields.io/badge/PRIVATE-6e7781?style=flat-square&logo=github&logoColor=white) |
-| **[Omni](https://github.com/mippi-the-dork/Omni)** | Higher-level navigation authoring that turns designer intent into standard Unreal navigation links. | ![WIP](https://img.shields.io/badge/WIP-d29922?style=flat-square) | ![Public](https://img.shields.io/badge/PUBLIC-0969da?style=flat-square) |
-| **[Portal](https://github.com/mippi-the-dork/Portal)** | Named Reroute Nodes for Blueprints, bringing Material Graph and PCG Graph style named routing to Blueprint graphs. | ![WIP](https://img.shields.io/badge/WIP-d29922?style=flat-square) | ![Public](https://img.shields.io/badge/PUBLIC-0969da?style=flat-square) |
-| **[Sniff](https://github.com/mippi-the-dork/Sniff)** | Wire sniffing data between nodes within Unreal Engine's PCG Graph. | ![WIP](https://img.shields.io/badge/WIP-d29922?style=flat-square) | ![Private](https://img.shields.io/badge/PRIVATE-6e7781?style=flat-square&logo=github&logoColor=white) |
-| **[Static](https://github.com/mippi-the-dork/Static)** | Actor Instance Parameter locking capabilities preventing accidental property editing at a granular level. | ![WIP](https://img.shields.io/badge/WIP-d29922?style=flat-square) | ![Private](https://img.shields.io/badge/PRIVATE-6e7781?style=flat-square&logo=github&logoColor=white) |
-| **[Rescue](https://github.com/mippi-the-dork/Rescue)** | Fuzzy and Semantic search capabilities within the Blueprint node search in Unreal Engine. | ![WIP](https://img.shields.io/badge/WIP-d29922?style=flat-square) | ![Private](https://img.shields.io/badge/PRIVATE-6e7781?style=flat-square&logo=github&logoColor=white) |
-| **[Axis](https://github.com/mippi-the-dork/Axis)** | Expands the editor transform methods with new capabilities found in traditional DCC tools. | ![WIP](https://img.shields.io/badge/WIP-d29922?style=flat-square) | ![Private](https://img.shields.io/badge/PRIVATE-6e7781?style=flat-square&logo=github&logoColor=white) |
-| **[Aid](https://github.com/mippi-the-dork/Aid)** | Design communication tool to visually show relationships between actors in a level in Unreal Engine. | ![WIP](https://img.shields.io/badge/WIP-d29922?style=flat-square) | ![Private](https://img.shields.io/badge/PRIVATE-6e7781?style=flat-square&logo=github&logoColor=white) |
-| **[Confine](https://github.com/mippi-the-dork/Confine)** | Identify and Quarantine unused assets in your Unreal Engine project and allow for easy removal. | ![WIP](https://img.shields.io/badge/WIP-d29922?style=flat-square) | ![Private](https://img.shields.io/badge/PRIVATE-6e7781?style=flat-square&logo=github&logoColor=white) |
-| **[Graze](https://github.com/mippi-the-dork/Graze)** | Actor Palette creation assistant, and expanded Actor Palette functionality in Unreal Engine. | ![WIP](https://img.shields.io/badge/WIP-d29922?style=flat-square) | ![Private](https://img.shields.io/badge/PRIVATE-6e7781?style=flat-square&logo=github&logoColor=white) |
-| **[Badge](https://github.com/mippi-the-dork/Badge)** | Adds icons within the Content Browser asset thumbnails to communicate internal production needs. | ![WIP](https://img.shields.io/badge/WIP-d29922?style=flat-square) | ![Private](https://img.shields.io/badge/PRIVATE-6e7781?style=flat-square&logo=github&logoColor=white) |
-| **[Metric](https://github.com/mippi-the-dork/Metric)** | A small but highly customizable quick access tool for level designers to pull up and check metrics. | ![WIP](https://img.shields.io/badge/WIP-d29922?style=flat-square) | ![Private](https://img.shields.io/badge/PRIVATE-6e7781?style=flat-square&logo=github&logoColor=white) |
-| **[Flow](https://github.com/mippi-the-dork/Flow)** | A* flow field, distance-based cost coloring tool for rapidly understanding the time it takes to get to various places within the level. | ![WIP](https://img.shields.io/badge/WIP-d29922?style=flat-square) | ![Private](https://img.shields.io/badge/PRIVATE-6e7781?style=flat-square&logo=github&logoColor=white) |
-| **[Husk](https://github.com/mippi-the-dork/Husk)** | A tool that uses raycasting to create an interior or exterior volume for use in creating physics collision shapes automatically to greatly reduce physics collision costs in a level. | ![WIP](https://img.shields.io/badge/WIP-d29922?style=flat-square) | ![Private](https://img.shields.io/badge/PRIVATE-6e7781?style=flat-square&logo=github&logoColor=white) |
+| Tool | What it is exploring | Access |
+| :-- | :-- | :-- |
+| **[Unmark](https://github.com/mippi-the-dork/Unmark)** | Markdown-native Unreal documentation, graph cards, editor-aware links, reusable references, and embedded documents | Private · WIP |
+| **[Omni](https://github.com/mippi-the-dork/Omni)** | Area-based navigation link authoring | Public · WIP |
+| **[Portal](https://github.com/mippi-the-dork/Portal)** | Named Reroute Nodes for Blueprints | Public · WIP |
+| **Metric** | Quick-access level design metrics | Private · WIP |
+| **Sniff** | PCG wire data inspection | Private · WIP |
+| **Static** | Granular Actor Instance Parameter locking | Private · WIP |
+| **Rescue** | Fuzzy and semantic Blueprint node search | Private · WIP |
+| **Axis** | Expanded editor transform tools | Private · WIP |
+| **Aid** | Actor relationship visualization | Private · WIP |
+| **Confine** | Unused asset quarantine | Private · WIP |
+| **Graze** | Actor Palette workflow tools | Private · WIP |
+| **Badge** | Content Browser production badges | Private · WIP |
+| **Flow** | A* traversal-cost visualization | Private · WIP |
+| **Husk** | Automatic collision volume generation | Private · WIP |
 
-> **Private repository note:** private project names and descriptions listed here are intentionally public. The links only resolve for GitHub users who already have access to those repositories.
-
-<!--
-PRIVATE PROJECT TEMPLATE
-
-| **[Project Name](https://github.com/mippi-the-dork/ProjectName)** | Short description. | ![WIP](https://img.shields.io/badge/WIP-d29922?style=flat-square) | ![Private](https://img.shields.io/badge/PRIVATE-6e7781?style=flat-square&logo=github&logoColor=white) |
-
-Change WIP to RELEASED and use color 2ea44f when the project ships.
--->
+> **Private repository note:** private project names and descriptions are intentionally public. Repository links only resolve for people who already have access.
 
 <p align="center">
-  <a href="https://github.com/mippi-the-dork?tab=repositories">
-    <img src="https://img.shields.io/badge/Browse_All_Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Browse all repositories">
-  </a>
+  <a href="https://github.com/mippi-the-dork?tab=repositories"><img src="https://img.shields.io/badge/BROWSE_ALL_REPOSITORIES-0B1728?style=for-the-badge&logo=github&logoColor=white" alt="Browse all repositories"></a>
+  <a href="https://www.fab.com/sellers/Mippithedork"><img src="https://img.shields.io/badge/VIEW_TOOLS_ON_FAB-0070E0?style=for-the-badge" alt="View tools on Fab"></a>
 </p>
 
----
+<img src="./assets/section-divider.svg" width="100%" alt="">
 
 ## Crafting Play
 
-**[Crafting Play](https://crafting-play.vercel.app/)** is my living game design knowledge base.
+**[Crafting Play](https://crafting-play.vercel.app/)** is my living game design knowledge base, built around turning experience, intuition, theory, and production reality into **usable ways to think**.
 
-It is built around the part of game design I care about most: turning experience, intuition, theory, and messy production reality into **usable ways to think**.
+It includes design frameworks, genre and player-fantasy analysis, case studies, workbooks, problem-diagnosis tools, and lessons accumulated from actually making games.
 
-It includes:
+> I am less interested in telling designers what to think than giving them better tools for **how to think through the problem**.
 
-- Game design frameworks and models
-- Genre dissection and player fantasy analysis
-- Design theory and case studies
-- Ideation, pre-production, production, and post-mortem workbooks
-- Practical tools for diagnosing design problems
-- Notes collected from decades of actually making games
+<p align="center"><a href="https://crafting-play.vercel.app/"><img src="https://img.shields.io/badge/OPEN_CRAFTING_PLAY-6F42C1?style=for-the-badge" alt="Open Crafting Play"></a></p>
 
-I am less interested in telling designers what to think than giving them better tools for **how to think through the problem**.
+<img src="./assets/section-divider.svg" width="100%" alt="">
 
-<p align="center">
-  <a href="https://crafting-play.vercel.app/">
-    <img src="https://img.shields.io/badge/READ_CRAFTING_PLAY-7C3AED?style=for-the-badge" alt="Read Crafting Play">
-  </a>
-</p>
+## Unreal Community & Learning
 
----
+### Unreal Source
 
-## Game Design
+Whether you're brand new to Unreal or have shipped with it for years, **[Unreal Source](https://unrealsource.com/)** is home to more than 130,000 developers sharing answers, workflows, discoveries, and hard-earned lessons.
 
-My background crosses a lot of disciplines, but the through-line is always design.
+[Visit Unreal Source](https://unrealsource.com/) · [Join the Discord](https://discord.gg/unrealsource)
 
-```text
-GAME DESIGN
-├── Systems & Mechanics
-├── Level Design
-├── Narrative Design
-├── Player Psychology
-├── Progression & Balance
-├── Prototyping & Discovery
-├── Design Leadership
-├── Documentation & Communication
-└── Tools that help teams do all of the above
-```
+### Epic Learning Center
 
-The job is not to have the most ideas.
+Epic provides a huge amount of official free learning material, including courses, tutorials, talks, demos, livestreams, learning paths, knowledge-base articles, and example projects.
 
-The job is to understand **which problem matters**, find the version that creates the strongest player experience, communicate it clearly enough that a team can build it, and keep testing whether the thing is actually fun.
+[Browse curated Unreal learning](https://dev.epicgames.com/community/unreal-engine/learning?source=epic_games&types=tutorial,course,talks_and_demos,livestream,learning_path,knowledge_base,knowledge_base,recommended_community_tutorial)
 
----
+<img src="./assets/section-divider.svg" width="100%" alt="">
 
 ## Find Me Around the Internet
 
-| Place | Link | Why you might care |
-| :-- | :-- | :-- |
-| **LinkedIn** | [linkedin.com/in/mippithedork](https://www.linkedin.com/in/mippithedork/) | Career, industry work, and professional contact |
-| **Crafting Play** | [crafting-play.vercel.app](https://crafting-play.vercel.app/) | Game design frameworks, models, workbooks, theory, and practical craft |
-| **Fab** | [Mippithedork on Fab](https://www.fab.com/sellers/Mippithedork) | Unreal Engine tools and plugins |
-| **Unreal Source** | [discord.gg/unrealsource](https://discord.gg/unrealsource) | Unreal Engine community, discussion, help, and shared knowledge |
-| **GitHub** | [github.com/mippi-the-dork](https://github.com/mippi-the-dork) | Source, releases, experiments, and whatever problem annoyed me enough to become a plugin |
-
----
+| Place | Why you might care |
+| :-- | :-- |
+| **[Portfolio](https://mippi-the-dork.github.io/)** | Games, career, consulting, tools, experiments, Doug, and several things you probably were not supposed to click |
+| **[LinkedIn](https://www.linkedin.com/in/mippithedork/)** | Career history and professional contact |
+| **[Crafting Play](https://crafting-play.vercel.app/)** | Game design frameworks, models, workbooks, and practical craft |
+| **[FAB](https://www.fab.com/sellers/Mippithedork)** | Unreal Engine tools for people who insist on giving me 99 cents |
+| **[Unreal Source](https://unrealsource.com/)** | Unreal community, discussion, help, and shared knowledge |
+| **[Steam](https://steamcommunity.com/id/mippithedork/)** | Add me if you want to know what I am actually playing |
 
 <p align="center">
-  <b>Make the game better. Make the workflow better. Share what you learn.</b>
+  <br>
+  <b>Make the game better. Make the workflow better. Share what you learn.</b><br>
+  <sub>© 2026 Mippi the Dork</sub>
 </p>
