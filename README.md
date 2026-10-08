@@ -22,6 +22,7 @@
   <img src="https://img.shields.io/badge/OPEN_SOURCE-FREE_ON_GITHUB-0B1728?style=flat-square&labelColor=FF4FC8" alt="Open Source">
 </p>
 
+
 <img src="./assets/section-divider.svg" width="100%" alt="">
 
 ## Hey, I'm Mippi
@@ -46,6 +47,7 @@ When the answer is "I probably shouldn't be," I tend to build something.
 
 <p align="center"><a href="https://mippi-the-dork.github.io/"><b>Explore the interactive portfolio →</b></a></p>
 
+
 <img src="./assets/section-divider.svg" width="100%" alt="">
 
 ## Games, Design & Development
@@ -62,6 +64,7 @@ When the answer is "I probably shouldn't be," I tend to build something.
 `Mob Entertainment` · `Oberha5li` · `Seven20 / deadmau5` · `Square Enix` · `Gamigo` · `Aeria Games` · `NCSoft` · `ChangYou` · `Electronic Arts` · `Insomniac Games` · `Naughty Dog` · `Rockstar Games` · `Sony Computer Entertainment America`
 
 Selected recognizable work includes **Poppy Playtime, Tomb Raider, Dragon Quest, Ratchet & Clank, Jak and Daxter, Grand Theft Auto**, plus a lot of work that is less recognizable from a logo but just as responsible for the scars.
+
 
 <img src="./assets/section-divider.svg" width="100%" alt="">
 
@@ -115,6 +118,7 @@ Released tools are always available **free on GitHub**. Where a FAB version exis
   <a href="https://www.fab.com/sellers/Mippithedork"><img src="https://img.shields.io/badge/VIEW_TOOLS_ON_FAB-0070E0?style=for-the-badge" alt="View tools on Fab"></a>
 </p>
 
+
 <img src="./assets/section-divider.svg" width="100%" alt="">
 
 ## Crafting Play
@@ -126,6 +130,7 @@ It includes design frameworks, genre and player-fantasy analysis, case studies, 
 > I am less interested in telling designers what to think than giving them better tools for **how to think through the problem**.
 
 <p align="center"><a href="https://crafting-play.vercel.app/"><img src="https://img.shields.io/badge/OPEN_CRAFTING_PLAY-6F42C1?style=for-the-badge" alt="Open Crafting Play"></a></p>
+
 
 <img src="./assets/section-divider.svg" width="100%" alt="">
 
@@ -142,6 +147,7 @@ Whether you're brand new to Unreal or have shipped with it for years, **[Unreal 
 Epic provides a huge amount of official free learning material, including courses, tutorials, talks, demos, livestreams, learning paths, knowledge-base articles, and example projects.
 
 [Browse curated Unreal learning](https://dev.epicgames.com/community/unreal-engine/learning?source=epic_games&types=tutorial,course,talks_and_demos,livestream,learning_path,knowledge_base,knowledge_base,recommended_community_tutorial)
+
 
 <img src="./assets/section-divider.svg" width="100%" alt="">
 
