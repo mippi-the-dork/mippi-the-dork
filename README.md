@@ -22,7 +22,7 @@
   <img src="https://img.shields.io/badge/OPEN_SOURCE-FREE_ON_GITHUB-0B1728?style=flat-square&labelColor=FF4FC8" alt="Open Source">
 </p>
 
-
+&#160;
 <img src="./assets/section-divider.svg" width="100%" alt="">
 
 ## Hey, I'm Mippi
