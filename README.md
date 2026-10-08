@@ -47,7 +47,7 @@ When the answer is "I probably shouldn't be," I tend to build something.
 
 <p align="center"><a href="https://mippi-the-dork.github.io/"><b>Explore the interactive portfolio →</b></a></p>
 
-
+&#160;
 <img src="./assets/section-divider.svg" width="100%" alt="">
 
 ## Games, Design & Development
@@ -65,7 +65,7 @@ When the answer is "I probably shouldn't be," I tend to build something.
 
 Selected recognizable work includes **Poppy Playtime, Tomb Raider, Dragon Quest, Ratchet & Clank, Jak and Daxter, Grand Theft Auto**, plus a lot of work that is less recognizable from a logo but just as responsible for the scars.
 
-
+&#160;
 <img src="./assets/section-divider.svg" width="100%" alt="">
 
 ## Unreal Engine Tools
@@ -118,7 +118,7 @@ Released tools are always available **free on GitHub**. Where a FAB version exis
   <a href="https://www.fab.com/sellers/Mippithedork"><img src="https://img.shields.io/badge/VIEW_TOOLS_ON_FAB-0070E0?style=for-the-badge" alt="View tools on Fab"></a>
 </p>
 
-
+&#160;
 <img src="./assets/section-divider.svg" width="100%" alt="">
 
 ## Crafting Play
@@ -131,7 +131,7 @@ It includes design frameworks, genre and player-fantasy analysis, case studies, 
 
 <p align="center"><a href="https://crafting-play.vercel.app/"><img src="https://img.shields.io/badge/OPEN_CRAFTING_PLAY-6F42C1?style=for-the-badge" alt="Open Crafting Play"></a></p>
 
-
+&#160;
 <img src="./assets/section-divider.svg" width="100%" alt="">
 
 ## Unreal Community & Learning
@@ -148,7 +148,7 @@ Epic provides a huge amount of official free learning material, including course
 
 [Browse curated Unreal learning](https://dev.epicgames.com/community/unreal-engine/learning?source=epic_games&types=tutorial,course,talks_and_demos,livestream,learning_path,knowledge_base,knowledge_base,recommended_community_tutorial)
 
-
+&#160;
 <img src="./assets/section-divider.svg" width="100%" alt="">
 
 ## Find Me Around the Internet
