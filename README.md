@@ -3,8 +3,8 @@
 </p>
 
 <p align="center">
-  <a href="https://mippi-the-dork.github.io/"><img src="https://img.shields.io/badge/PORTFOLIO-LIVE-0070E0?style=for-the-badge" alt="Portfolio"></a>
-  <a href="https://www.linkedin.com/in/mippithedork/"><img src="https://img.shields.io/badge/LINKEDIN-MIPPI_THE_DORK-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://mippi-the-dork.github.io/"><img src="https://img.shields.io/badge/PORTFOLIO-LIVE-0070E0?style=for-the-badge" alt="Portfolio"></a>   
+  <a href="https://www.linkedin.com/in/mippithedork/"><img src="https://img.shields.io/badge/LINKEDIN-MIPPI_THE_DORK-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>   
   <a href="https://crafting-play.vercel.app/"><img src="https://img.shields.io/badge/CRAFTING_PLAY-GAME_DESIGN-6F42C1?style=for-the-badge" alt="Crafting Play"></a>
 </p>
 
