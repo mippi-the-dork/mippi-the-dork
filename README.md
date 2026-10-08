@@ -93,7 +93,7 @@ Released tools are always available **free on GitHub**. Where a FAB version exis
 
 | Tool | What it is exploring | Access |
 | :-- | :-- | :-- |
-| **[Unmark](https://github.com/mippi-the-dork/Unmark)** | Markdown-native Unreal documentation, graph cards, editor-aware links, reusable references, and embedded documents | Private · WIP |
+| **[Unmark](https://github.com/mippi-the-dork/Unmark)** | Markdown-native Unreal documentation | Private · WIP |
 | **[Omni](https://github.com/mippi-the-dork/Omni)** | Area-based navigation link authoring | Public · WIP |
 | **[Portal](https://github.com/mippi-the-dork/Portal)** | Named Reroute Nodes for Blueprints | Public · WIP |
 | **Metric** | Quick-access level design metrics | Private · WIP |
