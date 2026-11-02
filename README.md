@@ -106,6 +106,9 @@ Released tools are always available **free on GitHub**. Where a FAB version exis
 | **[Omni](https://github.com/mippi-the-dork/Omni)** | Area-based navigation link authoring | Public · WIP |
 | **[Portal](https://github.com/mippi-the-dork/Portal)** | Named Reroute Nodes for Blueprints | Public · WIP |
 | **[Metric](https://github.com/mippi-the-dork/Metric)** | Quick-access level design metrics | Public · WIP |
+| **[Orbit](https://github.com/mippi-the-dork/Orbit)** | Multi-source customizable gravity | Public · WIP |
+| **[Strand](https://github.com/mippi-the-dork/Strand)** | Spline assets, integration and editor | Public · WIP |
+| **[Probe](https://github.com/mippi-the-dork/Probe)** | Easy-to-use automated testing tools | Public · WIP |
 | **Sniff** | PCG wire data inspection | Private · WIP |
 | **Static** | Granular Actor Instance Parameter locking | Private · WIP |
 | **Rescue** | Fuzzy and semantic Blueprint node search | Private · WIP |
