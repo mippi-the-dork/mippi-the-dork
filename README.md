@@ -109,8 +109,8 @@ Released tools are always available **free on GitHub**. Where a FAB version exis
 | **[Orbit](https://github.com/mippi-the-dork/Orbit)** | Multi-source customizable gravity | Public · WIP |
 | **[Strand](https://github.com/mippi-the-dork/Strand)** | Spline assets, integration and editor | Public · WIP |
 | **[Probe](https://github.com/mippi-the-dork/Probe)** | Easy-to-use automated testing tools | Public · WIP |
-| **[Central](https://github.com/mippi-the-dork/Probe)** | Mean, Median, Mode & Weighted Mean BP Nodes | Public · WIP |
-| **[Prism](https://github.com/mippi-the-dork/Probe)** | Extensible library for Unreal's TextureGraph | Public · WIP |
+| **[Central](https://github.com/mippi-the-dork/Central)** | Mean, Median, Mode & Weighted Mean BP Nodes | Public · WIP |
+| **[Prism](https://github.com/mippi-the-dork/Prism)** | Extensible library for Unreal's TextureGraph | Public · WIP |
 | **Sniff** | PCG wire data inspection | Private · WIP |
 | **Static** | Granular Actor Instance Parameter locking | Private · WIP |
 | **Rescue** | Fuzzy and semantic Blueprint node search | Private · WIP |
