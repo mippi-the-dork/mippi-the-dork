@@ -121,6 +121,7 @@ Released tools are always available **free on GitHub**. Where a FAB version exis
 | **Badge** | Content Browser production badges | Private · WIP |
 | **Flow** | A* traversal-cost visualization | Private · WIP |
 | **Husk** | Automatic collision volume generation | Private · WIP |
+| **Mosh** | Datamoshing and other visual glitch effects | Private · WIP |
 
 > **Private repository note:** private project names and descriptions are intentionally public. Repository links only resolve for people who already have access.
 
